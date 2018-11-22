@@ -1,4 +1,6 @@
-I'm a independent developer who creates software for Linux during my spare time on weekends. You can follow me on [Medium](http://medium.com/@teejeetech) for updates.
+I'm a independent developer who creates software for Linux during my spare time on weekends. 
+
+Follow me on [Medium](http://medium.com/@teejeetech) for updates.
 
 ## Applications
 

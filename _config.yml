@@ -1,3 +1,8 @@
+
+title: TeejeeTech
+description: 
+show_downloads: false
+
 remote_theme: "mmistakes/minimal-mistakes"
 
 plugins:
